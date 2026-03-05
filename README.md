@@ -2,6 +2,7 @@
 
 Репозиторий для нагрузочного тестирования сервиса бронирования автомобилей [cars](https://github.com/marselchik73/cars).  
 Содержит JMeter-скрипты, результаты тестов и HTML-отчёты.
+**Демо-версия сайта:** [marselchik73.github.io/cars](https://marselchik73.github.io/cars/)
 ---
 ## Структура репозитория
 
