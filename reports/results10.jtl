@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1772704150004,935,HTTP Request,200,OK,users 1-1,text,true,,378,263,1,1,https://testologia.ru/cars-order,923,0,845
+1772704151788,157,HTTP Request,200,OK,users 1-2,text,true,,378,263,1,1,https://testologia.ru/cars-order,157,0,97
+1772704153792,145,HTTP Request,200,OK,users 1-3,text,true,,378,263,1,1,https://testologia.ru/cars-order,145,0,91
+1772704155807,146,HTTP Request,200,OK,users 1-4,text,true,,378,263,1,1,https://testologia.ru/cars-order,146,0,86
+1772704157791,158,HTTP Request,200,OK,users 1-5,text,true,,378,263,1,1,https://testologia.ru/cars-order,158,0,83
+1772704159791,156,HTTP Request,200,OK,users 1-6,text,true,,378,263,1,1,https://testologia.ru/cars-order,156,0,88
+1772704161790,157,HTTP Request,200,OK,users 1-7,text,true,,378,263,1,1,https://testologia.ru/cars-order,157,0,97
+1772704163790,168,HTTP Request,200,OK,users 1-8,text,true,,378,263,1,1,https://testologia.ru/cars-order,168,0,84
+1772704165788,172,HTTP Request,200,OK,users 1-9,text,true,,378,263,1,1,https://testologia.ru/cars-order,172,0,102
+1772704167787,173,HTTP Request,200,OK,users 1-10,text,true,,378,263,1,1,https://testologia.ru/cars-order,173,0,100
